@@ -3,7 +3,7 @@
 
 ## Labs (1-10)
 
-* [Lab 01]()
+* [Lab 01](https://github.com/vusophie/seg4105_playground/tree/lab01)
 * [Lab 02]()
 * [Lab 03]()
 * [Lab 04]()
