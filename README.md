@@ -8,6 +8,8 @@
 | Email | svu043@uottawa.ca | 
 
 
+## Labs (1-10)
+
 * [Lab 01]()
 * [Lab 02]()
 * [Lab 03]()
@@ -18,6 +20,8 @@
 * [Lab 08]()
 * [Lab 09]()
 * [Lab 10]()
+
+ ## Tutorials (1-10)
 
 * [Tut 01]()
 * [Tut 02]()
