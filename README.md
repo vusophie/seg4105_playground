@@ -1,10 +1,9 @@
 # seg4105_playground
 
-
  	| Contact | Info |
 | ----------- | ----------- |
 | Name | Sophie Vu |
-| ID | 300113938 | 
+| Student ID | 300113938 | 
 | Email | svu043@uottawa.ca | 
 
 
