@@ -1,7 +1,9 @@
-## Tutorial 02
+# Tutorial 02
 * Name: Sophie Vu
 * ID: 300113938
 * Email: svu043@uottawa.ca
+
+## Notes
 
 ### Chapter 2 - Principles of Shaping
 
@@ -36,3 +38,29 @@
 - Identifying rabbit holes during shaping process helps address gaps + technical challenges + design problems
 - Exclude certain use cases to keep project within time frame
 - Exclude non-essential features (eg. remove color-coding)
+
+## Summary of each chapter
+
+### Chapter 2 - Principles of Shaping
+
+- The principles of shaping work are explored
+- Emphasis on the balance between specificity and flexibility
+- The importance of context, and efficient shaping techniques like setting boundaries, roughing out elements, addressing risks, and writing a pitch
+
+### Chapter 3 - Setting Boundaries
+
+- Clear project boundaries for productive decision-making
+- Focus on determining the value of an idea to allocate appropriate time and resources
+- Significance of trade-offs between time, quality, and scope in shaping
+
+### Chapter 4 - Find the Elements
+
+- Breadboarding for abstract design representation
+- Fat marker sketches for visual concepts
+- Identification of specific project elements using checkboxes and affordances
+- Leaving room for creative decisions by designers
+
+### Chapter 5 - Risks + Rabbit Holes
+
+- Thin-tailed and fat-tailed probability distributions
+- Identifying rabbit holes during shaping helps address gaps, technical challenges, and design issues
