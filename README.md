@@ -1,28 +1,51 @@
-# seg4105_playground
+# Tutorial 03
 
+## Contact information
 
-## Labs (1-10)
+* Name: Sophie Vu
+* ID: 300113938
+* Email: svu043@uottawa.ca
 
-* [Lab 01](https://github.com/vusophie/seg4105_playground/tree/lab01)
-* [Lab 02](https://github.com/vusophie/seg4105_playground/tree/lab02)
-* [Lab 03]()
-* [Lab 04]()
-* [Lab 05]()
-* [Lab 06]()
-* [Lab 07]()
-* [Lab 08]()
-* [Lab 09]()
-* [Lab 10]()
+## Task
 
- ## Tutorials (1-10)
+Summarize what you hear from https://37signals.com/podcast/writing-a-pitch/.
 
-* [Tut 01](https://github.com/vusophie/seg4105_playground/tree/tut01)
-* [Tut 02](https://github.com/vusophie/seg4105_playground/tree/tut02)
-* [Tut 03]()
-* [Tut 04]()
-* [Tut 05]()
-* [Tut 06]()
-* [Tut 07]()
-* [Tut 08]()
-* [Tut 09]()
-* [Tut 10]()
+## Summary
+
+### What is a pitch?
+
+* A pitch is a directional 800 words document = this is the idea that we are after (sometimes customer suggested)
+* Team takes direction and makes it happen
+* Speck = very detailed pitch
+* Two buckets = 1. Overly specified speck; 2. One-line ticket
+* Focus on budget; forget estimates
+
+### Who writes these pitches?
+
+* Anyone can pitch an idea (eg. designer pitches idea of how to change use of Basecamp) = throw ideas out / sharing idea
+* Formalized pitch / shaping document (what is done next)
+* Framing = step before pitching where you define business problem
+* Pitch = attempt at solution
+* Customers are good at telling you their problem
+* Software is bad when too user-centric and does not constitute single solution
+* Importance of spotting patterns
+* Pitch references several customers and points to several solution
+* Good shaper = finds pattern among several issues to find single solution
+* People that work on solution need to have experience problem-solving (eg. understanding how to build software)
+
+### Solution != execution
+
+* Collaboration between developers and shapers
+* When developers nderstand the problem, they are able to flex autonomy (trust + power to find solution)
+* Even best pitch is just a direction
+
+### Three pillars of employee satisfaction
+
+* Autonomy
+* Mastery
+* Purpose
+
+### Rabbit-holes + no-goes
+* Rabbit-holes = traps (looks appealing but you get stuck forever)
+* Eg. Adding incremental value to something that will not happen very often
+* No-goes = what NOT to focus on
