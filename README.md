@@ -1,9 +1,9 @@
 ## Tutorial 02
-Name: Sophie Vu
-ID: 300113938
-Email: svu043@uottawa.ca
+* Name: Sophie Vu
+* ID: 300113938
+* Email: svu043@uottawa.ca
 
-### Chapter 2
+### Chapter 2 - Principles of shaping
 
 - Work shaping == balance between too vague and too concrete
 - Going straight to wireframes limits creativity
@@ -14,21 +14,21 @@ Email: svu043@uottawa.ca
     - Sets boundaries + team efforts
 - Main steps: setting boundaries, roughing out elements, addressing risks + rabbit holes, writing pitch
 
-### Chapter 3
+### Chapter 3 - setting boundaries
 
 - Clear project boundaries = productive decision-making
 - Value of idea = can determine appetite (time + resources allocated to idea) = prevents hasty commitment
 - Importance of trade-offs between time + quality + scope
 - Pain points shape the solution based off of needs
 
-### Chapter 4
+### Chapter 4 - Find the elements
 
 - Breadboarding helps design at an abstract level to represent interface components + interactions
 - Fat marker sketches for visual concepts to avoid excessive details
 - Checkboxes + affordances are used during shaping process to identify specific project elements
 - Leave room for designers in early stages of the project to give space to creative decisions
 
-### Chapter 5
+### Chapter 5 - Risks + rabbit holes
 
 - Shaping helps mitigate risks on project  budgets + timelines
 - Thin-tailed probability distribution: deviations from schedule are minimal + predictable
