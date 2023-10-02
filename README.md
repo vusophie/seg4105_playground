@@ -1,28 +1,9 @@
-# seg4105_playground
+# Lab 3
 
+Name: Sophie Vu
+ID: 300113938
+Email: svu043@uottawa.ca
 
-## Labs (1-10)
-
-* [Lab 01](https://github.com/vusophie/seg4105_playground/tree/lab01)
-* [Lab 02](https://github.com/vusophie/seg4105_playground/tree/lab02)
-* [Lab 03]()
-* [Lab 04]()
-* [Lab 05]()
-* [Lab 06]()
-* [Lab 07]()
-* [Lab 08]()
-* [Lab 09]()
-* [Lab 10]()
-
- ## Tutorials (1-10)
-
-* [Tut 01](https://github.com/vusophie/seg4105_playground/tree/tut01)
-* [Tut 02](https://github.com/vusophie/seg4105_playground/tree/tut02)
-* [Tut 03]()
-* [Tut 04]()
-* [Tut 05]()
-* [Tut 06]()
-* [Tut 07]()
-* [Tut 08]()
-* [Tut 09]()
-* [Tut 10]()
+## Task
+Work on deliverable 1.
+[Link to Figjam brainstorm session](https://www.figma.com/file/TWPoeft3GF7jIfwrfXvyoA/Deliverable-01---Admin-Dashboard?type=whiteboard&node-id=0-1&t=WMrPjGaR0cdWGtOz-0)
