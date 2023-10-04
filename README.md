@@ -19,7 +19,7 @@
 * [Tut 01](https://github.com/vusophie/seg4105_playground/tree/tut01)
 * [Tut 02](https://github.com/vusophie/seg4105_playground/tree/tut02)
 * [Tut 03](https://github.com/vusophie/seg4105_playground/tree/tut03)
-* [Tut 04]()
+* [Tut 04](https://github.com/vusophie/seg4105_playground/blob/tut04)
 * [Tut 05]()
 * [Tut 06]()
 * [Tut 07]()
