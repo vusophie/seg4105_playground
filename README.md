@@ -88,13 +88,14 @@ Summarize the following chapter on bets.
 
 1. No shaping
 2. Bug smash
-3. Work is shipped / merged to main in small bites
+3. Work is shipped/merged to main in small bites
 4. Max 2 cycles
 
 ### Examples
 
-1. In 2020, after **two years of development**, we launched a new email app and service called [HEY](https://hey.com/). HEY was in `**R&D mode`  for the first year of its development.** A **team of three, Jason (CEO),  David (CTO), and Jonas (senior designer)** explored a wide variety of ideas before settling on the core. **Nearly a year of `production mode` cycles** followed, where all of Basecamp’s teams fleshed out HEY’s feature set. **We ended with two cycles of `cleanup`** and significantly cut back the feature set to launch in July 2020.
-2. When we built the Hill Charts feature in Basecamp (see Chapter 13), we had no idea if it was going to work out or not. We framed the project more like a **production mode bet on a new product**. We **shaped a first version that was just functional enough to use ourselves**. We didn’t expect to ship it to customers without doing an additional cycle on it. This was a risk: **we bet one cycle, not two**. If it didn’t work out, we’d scrap it. If something more important came up, we might not ever schedule the second cycle. **But we ended up feeling confident after the first cycle.** We shaped a project to round it out, decided to bet another cycle, and then shipped it to customers.
+1. In 2020, after two years of development, we launched a new email app and service called HEY. HEY was in `R&D mode` for the first year of its development. A team of three, Jason (CEO),  David (CTO), and Jonas (senior designer) explored a wide variety of ideas before settling on the core. Nearly a year of `production mode` cycles followed, where all of Basecamp’s teams fleshed out HEY’s feature set. We ended with two cycles of `cleanup` and significantly cut back the feature set to launch in July 2020.
+
+2. When we built the Hill Charts feature in Basecamp, we had no idea if it was going to work out. We framed the project more like a production mode bet on a new product. We shaped a first version that was just functional enough to use ourselves. We didn’t expect to ship it to customers without doing an additional cycle on it. This was a risk: we bet one cycle, not two. If it didn’t work out, we’d scrap it. If something more important came up, we might not ever schedule the second cycle. But we ended up feeling confident after the first cycle.** We shaped a project to round it out, decided to bet another cycle, and then shipped it to customers.
 
 ### Betting table questions
 
