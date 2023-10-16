@@ -11,7 +11,6 @@
 * [Lab 08]()
 * [Lab 09]()
 * [Lab 10]()
-Create a fat marker sketch of the feature you will be implementing for Deliverable #1. 
 
  ## Tutorials (1-10)
  ## Fat Marker Sketch
