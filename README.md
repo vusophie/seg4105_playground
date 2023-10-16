@@ -1,27 +1,21 @@
-## Labs (1-10)
+# Lab 05
+
+## Contact information
+
+* Name: Sophie Vu
+* ID: 300113938
+* Email: svu043@uottawa.ca
+
 ## Task
 
-* [Lab 01](https://github.com/vusophie/seg4105_playground/tree/lab01)
-* [Lab 02](https://github.com/vusophie/seg4105_playground/tree/lab02)
-* [Lab 03](https://github.com/vusophie/seg4105_playground/tree/lab03)
-* [Lab 04](https://github.com/vusophie/seg4105_playground/tree/lab04)
-* [Lab 05]()
-* [Lab 06]()
-* [Lab 07]()
-* [Lab 08]()
-* [Lab 09]()
-* [Lab 10]()
+* Understanding the expectations for the betting table and the project deliverable
+* Tools/technology run your betting table
+* Pitch review
 
- ## Tutorials (1-10)
- ## Fat Marker Sketch
+## Link to the Betting Table Teams meeting at 2:30 p.m. on Tuesday, October 17th, 2023 Eastern Time (ET).
 
-* [Tut 01](https://github.com/vusophie/seg4105_playground/tree/tut01)
-* [Tut 02](https://github.com/vusophie/seg4105_playground/tree/tut02)
-* [Tut 03](https://github.com/vusophie/seg4105_playground/tree/tut03)
-* [Tut 04](https://github.com/vusophie/seg4105_playground/blob/tut04)
-* [Tut 05]()
-* [Tut 06]()
-* [Tut 07]()
-* [Tut 08]()
-* [Tut 09]()
-* [Tut 10]()
+https://teams.live.com/meet/9363530523228?p=zNzaKzseVOFTpDZc
+
+## Link to the Placing Bets Teams meeting at 3:30 p.m. on Tuesday, October 17th, 2023 Eastern Time (ET).
+
+https://teams.live.com/meet/9363530523228?p=zNzaKzseVOFTpDZc
