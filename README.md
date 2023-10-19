@@ -1,4 +1,4 @@
-# Tutorial 05
+# Tutorial 06
 
 ## Contact information
 
@@ -8,25 +8,20 @@
 
 ## Task
 
-* Understanding the expectations for the betting table and the project deliverable
-* Tools / technology run your betting table
-* Pitch review
+* Executing your betting table
 
-## Link to the Betting Table Teams meeting
+## Notes from last week's betting table
 
-https://teams.live.com/meet/9363530523228?p=zNzaKzseVOFTpDZc
+### Identify the winning pitch
+* Shopping cart feature
+* Fundamental for our app because it affects the user's product selection and purchase. 
 
-### Meeting Minutes
 
-TBA
+### Meeting notes on arriving at that decision
+* Existing shopping cart is not user-friendly
+* Design an easy-to-use cart for adding, viewing, and updating items. 
 
-### Meeting Notes
 
-TBA
-
-### Pitch Reviews
-
-1. Sophie
-2. Ayman
-3. Saibi
-4. Christian
+### Changes requested from the winning pitch
+* We will keep the UI uniform with the rest of the platform. 
+* To avoid potential distractions, we will focus on facilitatating user experiences and increasing sales.
