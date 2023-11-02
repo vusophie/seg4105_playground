@@ -1,4 +1,4 @@
-# Tutorial 06
+# Lab 07
 
 ## Contact information
 
@@ -8,20 +8,11 @@
 
 ## Task
 
-* Executing your betting table
+* Write a "daily" stand-up summary about your project.
+* If you didn't work on your project today, then make it for the last time you did. 
+* If you haven't work at all on your project (really?), then pick something else to report on. 
+* This should include: (1) Summary update about your progress (2) Hill Chart snapshot (3) Pull-request summary from the last week (4) Confirm your team meeting schedule, plan on at least 30 minutes a week (more likely 1-2 hours if you are not tracking as you work) to document your progress.
+* Show TA your progress notes and team meeting schedule.
 
-## Notes from last week's betting table
+## Daily stand-up summary
 
-### Identify the winning pitch
-* Shopping cart feature
-* Fundamental for our app because it affects the user's product selection and purchase. 
-
-
-### Meeting notes on arriving at that decision
-* Existing shopping cart is not user-friendly
-* Design an easy-to-use cart for adding, viewing, and updating items. 
-
-
-### Changes requested from the winning pitch
-* We will keep the UI uniform with the rest of the platform. 
-* To avoid potential distractions, we will focus on facilitatating user experiences and increasing sales.
