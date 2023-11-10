@@ -66,4 +66,40 @@
 * Product Goal + Sprint Goal + Definition of Done
 
 ## Chapter 13 - Show Progress summary (1 page == 500 words)
+### Challenges with traditional status updates
+* Managers avoid asking for status due to the awkwardness + potential nagging feel
+* To-do lists == limitations in reflecting the true status, especially in terms of undiscovered tasks 
 
+### Uncertainty in to-do lists
+* To-dos !capture growth of tasks as the team makes progress
+* Estimates attached to tasks may not accurately represent the uncertainty and complexity of the work. 
+
+### Hill chart metaphor
+* The hill chart metaphor divides work into uphill (figuring out) + downhill (execution) phases
+* Visual representation of the project's status
+* Nuanced understanding compared to to-do lists 
+
+### Status without asking
+* Basecamp introduces a feature to create hill charts == allows team members to intuitively update project status without the need for explicit status inquiries
+* Managers can track changes over time + gain insights into what's in motion and what might be stuck 
+
+### Addressing uncertainty / stuck points
+* Uphill/downhill facilitates conversations about work progress rather than focusing on individuals
+
+### Refractoring scopes for accuracy
+* Stuck scope == indicate a problem in how it's defined rather than actual progress
+* Breaking down scopes into smaller == independent movement + more accurate progress tracking 
+
+### Building progress and sequencing work
+* Teams == struggle if they prematurely consider a scope solved
+* Hill chart == hands-on approach to problem-solving
+* Pritizing the uphill phases of riskier + more critical scopes
+
+### Effective sequencing using the Inverted Pyramid approach
+* Effective teams prioritize critical + uncertain problems first
+* Leave routine + less worrisome tasks for later
+* "Inverted pyramid" concept == emphasis on addressing the most crucial aspects first
+
+### Preventing backsliding + deciding when to stop
+* Hill chart helps prevent backsliding
+* Encourages hands-on approach to problem-solvingà
