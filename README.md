@@ -14,5 +14,8 @@
     * On the presentation (aka the delivery) 
     * On the content (aka SQA / ISO)
 
+### Notes
+[Link to the PDF notes.](https://github.com/vusophie/seg4105_playground/blob/tut09/lab09_notes.pdf)
 
 ### 1-2 page summary
+[Link to the PDF summary.](https://github.com/vusophie/seg4105_playground/blob/tut09/lab09_summary.pdf)
