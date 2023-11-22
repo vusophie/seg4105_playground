@@ -23,7 +23,7 @@ FigJam is a specialized retro tool with various tools and features to facilitate
 
 
 ### What format will I use?
-Mad-Sad-Glad format will be used. Team members will express what made them mad, sad, and glad during the iteration. We will then explore emotions and perceptions to improve team dynamics.
+4Ls (Loved, Learned, Lacked, Longed for) format will be used. Team members will express what they loved, learned, lacked and longed for during the iteration. We will then explore emotions and perceptions to improve team dynamics.
 
 
 ### How will I make it engaging?
