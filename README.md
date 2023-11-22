@@ -1,27 +1,18 @@
-## Labs (1-10)
+# Lab 10
+## Contact Info
+* Sophie Vu
+* 300113938
+* svu043@uottawa.ca
+
+
 ## Task
+Plan your retrospective
+ 1. Pick the tool.
+ 2. Pick the format.
+ 3. Articulate how your plan will
+  * Be engaging;
+  * Be meaningful.
 
-* [Lab 01](https://github.com/vusophie/seg4105_playground/tree/lab01)
-* [Lab 02](https://github.com/vusophie/seg4105_playground/tree/lab02)
-* [Lab 03](https://github.com/vusophie/seg4105_playground/tree/lab03)
-* [Lab 04](https://github.com/vusophie/seg4105_playground/tree/lab04)
-* [Lab 05](https://github.com/vusophie/seg4105_playground/tree/lab05)
-* [Lab 06](https://github.com/vusophie/seg4105_playground/tree/lab06)
-* [Lab 07](https://github.com/vusophie/seg4105_playground/tree/lab07)
-* [Lab 08](https://github.com/vusophie/seg4105_playground/tree/lab08)
-* [Lab 09](https://github.com/vusophie/seg4105_playground/tree/lab09)
-* [Lab 10](https://github.com/vusophie/seg4105_playground/tree/lab10)
-
- ## Tutorials (1-10)
- ## Fat Marker Sketch
-
-* [Tut 01](https://github.com/vusophie/seg4105_playground/tree/tut01)
-* [Tut 02](https://github.com/vusophie/seg4105_playground/tree/tut02)
-* [Tut 03](https://github.com/vusophie/seg4105_playground/tree/tut03)
-* [Tut 04](https://github.com/vusophie/seg4105_playground/blob/tut04)
-* [Tut 05](https://github.com/vusophie/seg4105_playground/tree/tut05)
-* [Tut 06](https://github.com/vusophie/seg4105_playground/tree/tut06)
-* [Tut 07](https://github.com/vusophie/seg4105_playground/tree/tut07)
-* [Tut 08](https://github.com/vusophie/seg4105_playground/tree/tut08)
-* [Tut 09](https://github.com/vusophie/seg4105_playground/tree/tut09)
-* [Tut 10](https://github.com/vusophie/seg4105_playground/tree/tut10)
+    
+## Retro
+[Link to join our retro session (11/14/23)](https://www.figma.com/file/vjPnizS84xmUfNaIHasPhE/Sophie-%26-co%E2%80%99s-sprint-retro-(11%2F14%2F23)?type=whiteboard&node-id=14%3A357&t=WvbuyZ48vTAWz6HS-1)
