@@ -11,4 +11,4 @@
 * Write a 1-2 page review.
 
 ### Review document
-[Link to the PDF of the review document.](https://github.com/vusophie/seg4105_playground/blob/lab10/reviewDoc.pdf)
+[Link to the PDF of the review document.](https://github.com/vusophie/seg4105_playground/blob/tut10/reviewDoc.pdf)
