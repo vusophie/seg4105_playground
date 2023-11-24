@@ -6,8 +6,8 @@
 * svu043@uottawa.ca
 
 ### Task
-* In 1-2 word, what is going on with your team?
-* Discuss an issue, devise an experiment, try it out.
+* In 1-2 words, what is going on with your team?
+* Discuss an issue, devise an experiment, and try it out.
 * Write a 1-2 page review.
 
 ### Review document
